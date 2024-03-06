@@ -16,7 +16,12 @@ Welcome to my GitHub!
 + Watching Movies 
 + Listening To Music / Podcasts
 
- ## My Favorite Movies / Shows  
+
+
+## My Favorite Movies / Shows  
++ ![Alt BoJack Horseman](https://external-preview.redd.it/reversed-a-better-way-bojack-horseman-could-have-ended-v0-UomvybsBMJXKu21M_z7m_fRxIwRjz0qMFJWoXVBdFKs.jpg?auto=webp&s=85f0f698cc1846a2896744906a44c91eedd7e48e)
+
+   (Bojack Horseman)
 
 
 
