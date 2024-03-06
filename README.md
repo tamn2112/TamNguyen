@@ -1,7 +1,7 @@
 # TamNguyen
 
 Hi my name is Tam (they/them) 
-Welcome to my github! 
+Welcome to my GitHub! 
 
 
 ## What I Do
@@ -15,6 +15,8 @@ Welcome to my github!
 + Writing
 + Watching Movies 
 + Listening To Music / Podcasts
+
+ ## My Favorite Movies / Shows  
 
 
 
